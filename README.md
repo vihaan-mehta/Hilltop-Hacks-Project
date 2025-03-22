@@ -1,2 +1,4 @@
 # Hilltop-Hacks-Project
-EmailBot AI
+# Ran on Google Colab with Python
+
+
